@@ -1,0 +1,140 @@
+{
+  "product": "Ablaze Trait Clusters",
+  "version": 1,
+  "releaseDate": "2021-01-28T00:00:00.000Z",
+  "clusters": [
+    {
+      "id": 1,
+      "name": "Artistic-Imaginative-Creative",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Artistic",
+        "Imaginative",
+        "Creative"
+      ],
+      "color": "00A7CC"
+    },
+    {
+      "id": 2,
+      "name": "Analytical/Experimental/Scientific/Logical/ Questioning/ Studious/Intellectual",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Analytical",
+        "Experimental",
+        "Scientific",
+        "Logical",
+        "Questioning",
+        "Studious",
+        "Intellectual"
+      ],
+      "color": "7E92C8"
+    },
+    {
+      "id": 3,
+      "name": "Goal-oriented/Decisive/Leader/Ambitious/Practical/Competitive/Driven/ Assertive/ Dynamic/ Determined/ Powerfully-spirited",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Goal-oriented",
+        "Decisive",
+        "Leader",
+        "Ambitious",
+        "Practical",
+        "Competitive",
+        "Driven",
+        "Assertive",
+        "Dynamic",
+        "Determined",
+        "Powerfully-spirited"
+      ],
+      "color": "CE5850"
+    },
+    {
+      "id": 4,
+      "name": "Obliging/Helpful/Cooperative/Relational/Team-player/Accepting/Compassionate/Tender-Hearted/Sympathetic/Sensitive/Peace-Maker",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Obliging",
+        "Helpful",
+        "Cooperative",
+        "Relational",
+        "Team-player",
+        "Accepting",
+        "Compassionate",
+        "Tender-Hearted",
+        "Sympathetic",
+        "Sensitive",
+        "Peace-Maker"
+      ],
+      "color": "9471C1"
+    },
+    {
+      "id": 5,
+      "name": "Outgoing/Talkative/Expressive/Affectionate",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Outgoing",
+        "Talkative",
+        "Expressive",
+        "Affectionate"
+      ],
+      "color": "F6B53C"
+    },
+    {
+      "id": 6,
+      "name": "Active/Adventurous/Curious/Enthusiastic/Spontaneous/Eager",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Active",
+        "Adventurous",
+        "Curious",
+        "Enthusiastic",
+        "Spontaneous",
+        "Eager"
+      ],
+      "color": "3F784C"
+    },
+    {
+      "id": 7,
+      "name": "Values Alone Time/Private/Quiet/Pensive/Reflective/Self-Sufficient",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Values Alone Time",
+        "Private",
+        "Quiet",
+        "Pensive",
+        "Reflective",
+        "Self-Sufficient"
+      ],
+      "color": "C8B5CF"
+    },
+    {
+      "id": 8,
+      "name": "Peaceful/Relaxed/Easy-going/Calm/Adaptive/Happy/Optimistic/ Flexible/Makes friends easily",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Peaceful",
+        "Relaxed",
+        "Easy-going",
+        "Calm",
+        "Adaptive",
+        "Happy",
+        "Optimistic",
+        "Flexible",
+        "Makes friends easily"
+      ],
+      "color": "FFE45E"
+    },
+    {
+      "id": 9,
+      "name": "Detail-oriented/Organized/Orderly/Values Routines",
+      "description": "The long description goes here.",
+      "adjectives": [
+        "Detail-oriented",
+        "Organized",
+        "Orderly",
+        "Values Routines"
+      ],
+      "color": "CCD7C5"
+    }
+  ]
+}
